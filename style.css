@@ -47,6 +47,11 @@ top: 30px;
 
 }
 
+#text-white{
+    color: white;
+    text-decoration: none;
+}
+
 .top-nav-right{
     float: right;
 }
@@ -60,10 +65,7 @@ top: 30px;
     color: tomato;
 }
 
-.know-more{
-    text-decoration: none;
-    color: white;
-}
+
 
 
 #numbers img{
